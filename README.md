@@ -1,16 +1,17 @@
-# 👋 Hi there, I'm Ilona CAPO!
+# Hi there, I'm Ilona CAPO 👋
 
-🎓 **3rd year Full Stack Development Bachelor** - AI & Data Science enthusiast  
-🔬 **Passionate about:** Merging technology with meaningful causes  
-🌱 **Dream:** Building AI for medicine, chemistry & biology - like making an AI assistant for healthcare  
-💡 **Current focus:** NLP, data analysis & web development  
+**3rd year Full Stack Development Bachelor** | AI & Data Science enthusiast  
 
-## 🚀 What I'm working on
-- 🧪 **ChimLab Virtual:** AI-powered chemistry lab simulator
-- 📊 **Data projects:** Sentiment analysis, biological modeling, statistical automation
-- 🌍 **Engaged tech:** Using AI for environmental and health solutions
+Creative and curious developer passionate about merging technology with meaningful causes. Quick learner with a strong foundation in data analysis, NLP, and algorithmic programming. Currently exploring AI applications for medicine, chemistry, and biology.
 
-## 🛠️ Tech Stack
+**Current focus:** Building intelligent systems for healthcare and environmental solutions
+
+## Current Projects
+- **ChimLab Virtual:** AI-powered chemistry laboratory simulator
+- **Data Analysis Pipeline:** Automated sentiment analysis and biological modeling
+- **Research:** Exploring NLP applications in scientific domains
+
+## Technical Skills
 
 **Programming Languages:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -30,54 +31,54 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-## 🌟 Featured Projects
-- **🔬 Biological Growth Modeling (BOMBYX):** Population simulation with dynamic parameters
-- **📈 Electronic Transfer Simulation:** Polynomial parsing, frequency calculation, automated statistical analysis
-- **💬 Automated Sentiment Analysis:** NLP classification with TextBlob, CSV export
-- **🎮 Interactive Graphics:** CSFML game development with animated targets
-- **🌐 Dynamic Recipe Blog:** PHP/MySQL full-stack web application
+## Featured Projects
+- **Biological Growth Modeling (BOMBYX):** Population evolution simulation with dynamic parameters and curve visualization
+- **Electronic Transfer Simulation:** Advanced polynomial parsing, frequency calculation with automated statistical analysis
+- **Automated Sentiment Analysis:** NLP text classification using TextBlob with comprehensive CSV reporting
+- **Interactive Graphics Development:** Real-time game mechanics using CSFML with animated target systems
+- **Dynamic Web Applications:** Full-stack PHP/MySQL blog with user interaction and database integration
 
-## 🌍 Beyond Code
-🎨 **Creative side:** Painting, UX/UI design, visual storytelling  
-🌱 **Environmental advocate:** Passionate about using tech for sustainability  
-📚 **Always learning:** Reading, exploring new technologies  
-🎾 **Active lifestyle:** Tennis player  
+## Interests & Values
+**Creative approach:** UX/UI design, visual arts, and innovative problem-solving  
+**Environmental advocacy:** Committed to using technology for sustainability and positive impact  
+**Continuous learning:** Rapidly adapting to new technologies and methodologies  
+**Active lifestyle:** Tennis, reading, and exploring emerging tech trends  
 
-## 📈 GitHub Stats
-![Ilona's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilocapo&show_icons=true&theme=radical)
-
----
-
-# 🇫🇷 Salut, moi c'est Ilona !
-
-🎓 **3ème année Bachelor Développement Full Stack** - Passionnée par l'IA & Data Science  
-🔬 **Ma passion :** Allier technologie et causes qui ont du sens  
-🌱 **Mon rêve :** Créer de l'IA pour la médecine, chimie & biologie - comme un assistant IA pour la santé  
-💡 **Focus actuel :** NLP, analyse de données & développement web  
-
-## 🚀 Mes projets actuels
-- 🧪 **ChimLab Virtuel :** Simulateur de laboratoire de chimie avec IA
-- 📊 **Projets data :** Analyse de sentiment, modélisation biologique, automatisation statistique
-- 🌍 **Tech engagée :** Utiliser l'IA pour des solutions environnementales et de santé
-
-## 🌟 Projets phares
-- **🔬 Modélisation de Croissance Biologique (BOMBYX) :** Simulation de population avec paramètres dynamiques
-- **📈 Simulation de Transfert Électronique :** Parsing de polynômes, calcul fréquentiel, analyse statistique automatisée
-- **💬 Analyse de Sentiment Automatisée :** Classification NLP avec TextBlob, export CSV
-- **🎮 Graphisme Interactif :** Développement de jeu CSFML avec cibles animées
-- **🌐 Blog Recettes Dynamique :** Application web full-stack PHP/MySQL
-
-## 🌍 Au-delà du code
-🎨 **Côté créatif :** Peinture, design UX/UI, storytelling visuel  
-🌱 **Militante écolo :** Passionnée par l'usage de la tech pour la durabilité  
-📚 **Toujours en apprentissage :** Lecture, exploration de nouvelles technologies  
-🎾 **Vie active :** Joueuse de tennis  
-
-## 💌 Contact
-📧 **Email:** Emefa.capo@gmail.com  
-🔗 **GitHub:** [github.com/ilocapo](https://github.com/ilocapo)  
-📱 **Tel:** 07 75 95 48 87
+## GitHub Analytics
+![Ilona's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilocapo&show_icons=true&theme=github_dark&hide_border=true)
 
 ---
 
-*"Code with purpose, create with passion, build for a better world"* 🌟
+# Salut, moi c'est Ilona 🇫🇷
+
+**3ème année Bachelor Développement Full Stack** | Passionnée par l'IA & Data Science
+
+Développeuse créative et curieuse, j'allie technologie et causes qui ont du sens. Apprentissage rapide avec une solide base en analyse de données, NLP et programmation algorithmique. J'explore actuellement les applications de l'IA pour la médecine, la chimie et la biologie.
+
+**Focus actuel :** Construire des systèmes intelligents pour la santé et l'environnement
+
+## Projets en cours
+- **ChimLab Virtuel :** Simulateur de laboratoire de chimie avec IA
+- **Pipeline d'Analyse de Données :** Analyse de sentiment automatisée et modélisation biologique
+- **Recherche :** Explorer les applications du NLP dans les domaines scientifiques
+
+## Projets phares
+- **Modélisation de Croissance Biologique (BOMBYX) :** Simulation d'évolution de population avec paramètres dynamiques et visualisation de courbes
+- **Simulation de Transfert Électronique :** Parsing avancé de polynômes, calcul fréquentiel avec analyse statistique automatisée
+- **Analyse de Sentiment Automatisée :** Classification de textes NLP avec TextBlob et reporting CSV complet
+- **Développement Graphique Interactif :** Mécaniques de jeu temps réel avec CSFML et systèmes de cibles animées
+- **Applications Web Dynamiques :** Blog full-stack PHP/MySQL avec interaction utilisateur et intégration base de données
+
+## Intérêts & Valeurs
+**Approche créative :** Design UX/UI, arts visuels et résolution innovante de problèmes  
+**Engagement environnemental :** Engagée à utiliser la technologie pour la durabilité et l'impact positif  
+**Apprentissage continu :** Adaptation rapide aux nouvelles technologies et méthodologies  
+**Vie active :** Tennis, lecture et exploration des tendances tech émergentes
+
+## Contact
+**Email:** Emefa.capo@gmail.com  
+**GitHub:** [github.com/ilocapo](https://github.com/ilocapo)
+
+---
+
+*"Code with purpose, create with passion, build for a better world"*
