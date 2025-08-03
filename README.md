@@ -1,6 +1,6 @@
 # Hi there, I'm Ilona CAPO 👋
 
-**3rd year Full Stack Development Bachelor** | AI & Data Science enthusiast  
+**3rd year AI Development Bachelor** | AI & Data Science enthusiast  
 
 Creative and curious developer passionate about merging technology with meaningful causes. Quick learner with a strong foundation in data analysis, NLP, and algorithmic programming. Currently exploring AI applications for medicine, chemistry, and biology.
 
@@ -51,7 +51,7 @@ Creative and curious developer passionate about merging technology with meaningf
 
 # Salut, moi c'est Ilona 🇫🇷
 
-**3ème année Bachelor Développement Full Stack** | Passionnée par l'IA & Data Science
+**3ème année Bachelor Développement IA** | Passionnée par l'IA & Data Science
 
 Développeuse créative et curieuse, j'allie technologie et causes qui ont du sens. Apprentissage rapide avec une solide base en analyse de données, NLP et programmation algorithmique. J'explore actuellement les applications de l'IA pour la médecine, la chimie et la biologie.
 
