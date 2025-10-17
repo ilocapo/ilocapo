@@ -6,11 +6,6 @@ Creative and curious developer passionate about merging technology with meaningf
 
 **Current focus:** Building intelligent systems for healthcare and environmental solutions
 
-## Current Projects
-- **ChimLab Virtual:** AI-powered chemistry laboratory simulator
-- **Data Analysis Pipeline:** Automated sentiment analysis and biological modeling
-- **Research:** Exploring NLP applications in scientific domains
-
 ## Technical Skills
 
 **Programming Languages:**
@@ -31,12 +26,6 @@ Creative and curious developer passionate about merging technology with meaningf
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-## Featured Projects
-- **Biological Growth Modeling (BOMBYX):** Population evolution simulation with dynamic parameters and curve visualization
-- **Electronic Transfer Simulation:** Advanced polynomial parsing, frequency calculation with automated statistical analysis
-- **Automated Sentiment Analysis:** NLP text classification using TextBlob with comprehensive CSV reporting
-- **Interactive Graphics Development:** Real-time game mechanics using CSFML with animated target systems
-- **Dynamic Web Applications:** Full-stack PHP/MySQL blog with user interaction and database integration
 
 ## Interests & Values
 **Creative approach:** UX/UI design, visual arts, and innovative problem-solving  
@@ -57,17 +46,7 @@ Développeuse créative et curieuse, j'allie technologie et causes qui ont du se
 
 **Focus actuel :** Construire des systèmes intelligents pour la santé et l'environnement
 
-## Projets en cours
-- **ChimLab Virtuel :** Simulateur de laboratoire de chimie avec IA
-- **Pipeline d'Analyse de Données :** Analyse de sentiment automatisée et modélisation biologique
-- **Recherche :** Explorer les applications du NLP dans les domaines scientifiques
 
-## Projets phares
-- **Modélisation de Croissance Biologique (BOMBYX) :** Simulation d'évolution de population avec paramètres dynamiques et visualisation de courbes
-- **Simulation de Transfert Électronique :** Parsing avancé de polynômes, calcul fréquentiel avec analyse statistique automatisée
-- **Analyse de Sentiment Automatisée :** Classification de textes NLP avec TextBlob et reporting CSV complet
-- **Développement Graphique Interactif :** Mécaniques de jeu temps réel avec CSFML et systèmes de cibles animées
-- **Applications Web Dynamiques :** Blog full-stack PHP/MySQL avec interaction utilisateur et intégration base de données
 
 ## Intérêts & Valeurs
 **Approche créative :** Design UX/UI, arts visuels et résolution innovante de problèmes  
