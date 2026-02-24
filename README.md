@@ -1,56 +1,59 @@
 # Ilona CAPO
 
-AI Development student | Data & Intelligent Systems
+AI Development | Intelligent Systems | Data Science
 
-I design and build practical AI-driven solutions with a focus on healthcare, environment, and real-world impact.  
-Background in data analysis, NLP, and algorithmic programming. Comfortable turning ideas into working products.
-
----
-
-## Tech Stack
-
-**Languages**
-Python • C • JavaScript • PHP • SQL
-
-**AI & Data**
-Pandas • NumPy • Matplotlib • NLP • Data Analysis • Machine Learning basics
-
-**Tools**
-Git • Linux • VS Code • Jupyter • GitHub
+Welcome! I’m Ilona — a developer focused on building intelligent systems with real-world impact, especially in healthcare and environmental domains.  
+I turn data and algorithms into practical tools and prototypes that solve problems. Explore my work below.
 
 ---
 
-## What I'm working on
+## 🔗 Portfolio
 
-- AI applications for healthcare & biology
-- Data-driven tools and automation projects
-- Full-stack experimentation (PHP / JS)
-- Personal products and side projects
+Explore my projects and demos here:  
+🌐 https://ilocapo.github.io/ilona-portfolio/ :contentReference[oaicite:2]{index=2}
 
 ---
 
-## Selected Projects
+## 💡 What I Build
 
-You can find my featured work here:  
-👉 Portfolio: [your-link]
+I enjoy working on:
 
-(Some projects are experiments or prototypes — I value learning fast and iterating.)
+- **AI & Machine Learning applications**  
+- **Data analysis and NLP projects**  
+- **Tools and prototypes that help solve real problems**
 
----
-
-## About me
-
-I like building technology that has meaning, not just code for the sake of code.  
-Interested in sustainability, design, and solving real-world problems with data.
+Each project reflects a learning journey — some are polished, others are prototypes or experiments — but all show technical growth and curiosity.
 
 ---
 
-## Contact
+## 🛠️ Tech Stack
 
-Email: emefa.capo@gmail.com  
-GitHub: https://github.com/ilocapo  
-LinkedIn: [add-link]
+**Languages:** Python • C • JavaScript • PHP • SQL  
+**Data & AI:** Pandas • NumPy • Matplotlib • NLP basics  
+**Tools:** Git • Linux • VS Code • Jupyter
+
+_(This summarizes the tools and languages I use regularly.)_ :contentReference[oaicite:3]{index=3}
 
 ---
 
-> Build with purpose.
+## 📌 Featured Projects
+
+Visit my portfolio site above for live demos and code.  
+You’ll find examples of:
+
+- Interactive AI tools
+- Data exploration applications
+- Intelligent systems prototypes
+
+Each project in the portfolio links to its GitHub repository and includes a short description of its purpose and technologies used.
+
+---
+
+## 📫 Contact
+
+**Email:** eme⁠fa.capo@gmail.com  
+**GitHub:** https://github.com/ilocapo
+
+---
+
+> *Build with purpose. Create with clarity. Solve real problems.*
