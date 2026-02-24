@@ -20,11 +20,12 @@ Pandas - NumPy - Matplotlib - NLP - Data Analysis - Machine Learning
 Tools  
 Git - Linux - VS Code - Jupyter
 
+And more...
+
 ---
 
 ## What I'm working on
 
-- AI applications for healthcare and biology  
 - Data-driven tools and automation  
 - Full-stack experimentation  
 - Personal products and prototypes  
@@ -40,19 +41,9 @@ Some projects are polished, others are experiments - I value learning fast and i
 
 ---
 
-## GitHub Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilocapo&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilocapo&layout=compact&hide_border=true)
-
----
-
 ## Contact
 
 Email: emefa.capo@gmail.com  
 GitHub: https://github.com/ilocapo  
 
 ---
-
-Build with purpose.
